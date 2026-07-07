@@ -1,0 +1,9 @@
+[device]
+id = "06eb6316-e673-45be-9826-375741e0fa89"
+name = "VoBo HL-1"
+description = "Universal industrial grade LoRaWAN endpoint that converts wired industrial sensors into wireless sensors, certified to be located in hazardous areas."
+firmware = []
+
+[device.metadata]
+product_url = "https://volleyboast.com/products/vobo-endpoints/"
+documentation_url = "https://volleyboast.com/products/Latest/VoBogp1hl1/DCM_0052_A6_VoBo_GP1_HL1_Spec_Sheet.pdf"

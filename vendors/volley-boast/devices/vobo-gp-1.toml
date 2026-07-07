@@ -1,0 +1,9 @@
+[device]
+id = "9cf49dcf-e345-4759-a9ba-ac9055b70bda"
+name = "VoBo GP-1"
+description = "Universal industrial grade LoRaWAN endpoint that converts wired industrial sensors into wireless sensors, designed for rugged outdoor use."
+firmware = []
+
+[device.metadata]
+product_url = "https://volleyboast.com/products/vobo-endpoints/"
+documentation_url = "https://volleyboast.com/products/Latest/VoBogp1hl1/DCM_0052_A6_VoBo_GP1_HL1_Spec_Sheet.pdf"

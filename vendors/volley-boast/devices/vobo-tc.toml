@@ -1,0 +1,9 @@
+[device]
+id = "7170696c-905d-4c57-806b-dab52654a776"
+name = "VoBo-TC"
+description = "The VoBo TC is an industrial grade 12 channel thermocouple LoRaWAN® bridge certified for Class 1 Division 2 hazardous areas."
+firmware = []
+
+[device.metadata]
+product_url = "https://volleyboast.com/products/vobotc/"
+documentation_url = "https://volleyboast.com/products/Latest/VoBoTC/DCM-TC04-B1-VoBo_TC_Datasheet.pdf"

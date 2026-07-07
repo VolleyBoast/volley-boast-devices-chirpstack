@@ -1,0 +1,9 @@
+[device]
+id = "7b227927-3d56-4e70-ad5a-866cabb34b66"
+name = "VoBo-XP"
+description = "The VoBo XP is an externally powered, industrial grade, 7 input, 4 output, LoRaWAN® bridge certified for Class 1 Division 2 (pending) hazardous areas."
+firmware = []
+
+[device.metadata]
+product_url = "https://volleyboast.com/products/voboxp1/"
+documentation_url = "https://volleyboast.com/products/Latest/VoBoXP/DCM-XP04-A5-VoBo_XP_Datasheet_Draft.pdf"
