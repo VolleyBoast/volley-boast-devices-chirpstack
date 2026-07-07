@@ -4,15 +4,7 @@ name = "VoBo-TC"
 description = "The VoBo TC is an industrial grade 12 channel thermocouple LoRaWAN® bridge certified for Class 1 Division 2 hazardous areas."
 
 [[device.firmware]]
-version = "1.00.00"
-profiles = [
-    "us915-class-a.toml",
-    "eu868-class-a.toml",
-]
-codec = "Decoder.js"
-
-[[device.firmware]]
-version = "2.00.00"
+version = "2.00.02"
 profiles = [
     "us915-class-a.toml",
     "eu868-class-a.toml",
@@ -28,7 +20,15 @@ profiles = [
 codec = "Decoder.js"
 
 [[device.firmware]]
-version = "2.00.02"
+version = "2.00.00"
+profiles = [
+    "us915-class-a.toml",
+    "eu868-class-a.toml",
+]
+codec = "Decoder.js"
+
+[[device.firmware]]
+version = "1.00.00"
 profiles = [
     "us915-class-a.toml",
     "eu868-class-a.toml",

@@ -4,23 +4,7 @@ name = "VoBo HL-1"
 description = "Universal industrial grade LoRaWAN endpoint that converts wired industrial sensors into wireless sensors, certified to be located in hazardous areas."
 
 [[device.firmware]]
-version = "1.03.10"
-profiles = [
-    "us915-class-a.toml",
-    "eu868-class-a.toml",
-]
-codec = "Decoder.js"
-
-[[device.firmware]]
-version = "2.00.00"
-profiles = [
-    "us915-class-a.toml",
-    "eu868-class-a.toml",
-]
-codec = "Decoder.js"
-
-[[device.firmware]]
-version = "2.01.00"
+version = "2.02.00"
 profiles = [
     "us915-class-a.toml",
     "eu868-class-a.toml",
@@ -36,7 +20,23 @@ profiles = [
 codec = "Decoder.js"
 
 [[device.firmware]]
-version = "2.02.00"
+version = "2.01.00"
+profiles = [
+    "us915-class-a.toml",
+    "eu868-class-a.toml",
+]
+codec = "Decoder.js"
+
+[[device.firmware]]
+version = "2.00.00"
+profiles = [
+    "us915-class-a.toml",
+    "eu868-class-a.toml",
+]
+codec = "Decoder.js"
+
+[[device.firmware]]
+version = "1.03.10"
 profiles = [
     "us915-class-a.toml",
     "eu868-class-a.toml",
