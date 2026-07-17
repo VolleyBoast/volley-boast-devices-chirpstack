@@ -49,7 +49,6 @@ codec = "Decoder.js"
 version = "1.00.00"
 profiles = [
     "us915-class-a.toml",
-    "eu868-class-a.toml",
 ]
 codec = "Decoder.js"
 
