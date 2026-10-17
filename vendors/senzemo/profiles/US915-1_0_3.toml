@@ -1,13 +1,13 @@
 [profile]
-id = "a6ba92b2-41bc-42ff-9ca2-e5e51a0189ef"
+id = "e71526d4-7ce8-447c-8fba-93c068fe61a7"
 vendor_profile_id = 0
-region = "EU868"
+region = "US915"
 mac_version = "1.0.3"
 reg_params_revision = "A"
 supports_otaa = true
 supports_class_b = false
 supports_class_c = false
-max_eirp = 0
+max_eirp = 22
 
 [profile.abp]
 rx1_delay = 0
